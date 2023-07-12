@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.deps.json
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.pdb
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\Pretest14-16\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.pdb
